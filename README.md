@@ -17,7 +17,7 @@ A collection of detailed Exploratory Data Analysis (EDA) notebooks using **Pytho
 ---
 
 ## 🛠️ Key Tools & Libraries
-- Python 3.x
+- Python 3.10
 - Pandas
 - NumPy
 - Matplotlib
